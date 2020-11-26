@@ -89,7 +89,7 @@ a {
 
 .progress-value,
 .progress-badge {
-  color: #0b707e;
+  color:  #0b707e;
   font-size: 0.8571em;
   text-transform: uppercase;
 }
@@ -104,10 +104,6 @@ a {
 .progress {
   margin-top: 14px;
 	background: rgba(25, 105, 129, 0.4);
-}
-
-.progress {
-  background: rgba(25, 105, 129, 0.4);
 }
 
 .progress-bar {
@@ -374,4 +370,8 @@ time {
   .form-group:first-of-type {
     margin-right: 0;
   }
+  .skills-content {
+    flex-direction: column;
+  }
+
 }
