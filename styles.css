@@ -19,6 +19,7 @@ h1 {
   font-size: 56px;
   color: white;
 }
+
 body {
   font-family: Montserrat;
   margin: 0;
@@ -91,7 +92,6 @@ a {
 .progress-badge {
   color:  #0b707e;
   font-size: 0.8571em;
-  text-transform: uppercase;
 }
 
 .progress-value {
@@ -109,6 +109,10 @@ a {
 .progress-bar {
   height: 5px;
   background: #129daf;
+}
+h3{
+  color:  #0b707e;
+  text-align:center;
 }
 /* EFFECTS
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
